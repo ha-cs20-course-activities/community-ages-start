@@ -8,7 +8,7 @@ cnv.height = 500;
 
 // Global Variables
 let ages = [];
-let max = 5000; // array values should be b/t 0 and max
+let max = 100; // array values should be b/t 0 and max
 
 // Main Program Loop
 requestAnimationFrame(draw);
